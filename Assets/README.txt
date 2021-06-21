@@ -1,3 +1,11 @@
+Topics covered in these examples below 
+- Custom assembly definitions
+- Editor scripting
+- Hooking into Post build events
+- Serialization
+- Unity lightmapping shortcomings
+- Custom LOD management
+
 Stephen Long - PERSONAL CHANGELOG FOR MESH BAKER
 This project contains Mesh Baker, an asset used for combining meshes in the interest of optimization. Mesh Baker has an assembly in its Editor folder (MeshBaker/Editor). I have created a custom assembly (Custom_Utilities) for interfacing
 with this. Generally, I will separate out code into assemblies where possible in the interest of both decoupling, and reduced compile times. 
@@ -50,4 +58,14 @@ MB3_MeshBakerEditor.cs
 - Updated the MeshBaker/Editor assembly so it knows about our custom Custom_Utilities assembly.
 
 
+--------------- CACHE MANAGEMENT --------------
+Unity has many a downfall, and one of them is the fact that a lot of actions generate a lot of garbage. Its Library/ShaerCache directory, and its Library/shadercache.db file can
+get abnormally large (> 12 GB). For example, after doing an Android build, these can become massively inflated. This leads to massive slowdown when working with materials and shaders. Eg if you select a material and want to change its shader, it can cause 
+delays of upward of 20 -30 seconds per change. I have created a config that allows you to manage this. It tracks the size of the above, and allows you to specify when to delete 
+them (they auto generate when needed). I hook into the post build events to allow you to delete after a build, or you can specify to have it auto delete when closing Unity.
+I have also given the option to auto delete they go past a specified size. In future I will probably write a batch script to do the above before launching.  
 
+------------- Lightmaps --------------
+Unity handles lightmapping on a per scene basis, meaning that duplicating objects means their lightmap data is not also duplicated. LightmapDataHolder.cs allows us to take the 
+lightmap data from a Renderer and apply that to the renderer of another object. Why is that useful? Its useful for the purposes of fast iteration and prototyping. Waiting on Unity
+to generate a lightmap for a new scene takes a long time (depending on the size of the scene, the selected lightmapper etc). 
