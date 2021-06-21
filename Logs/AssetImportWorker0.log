@@ -1,0 +1,859 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.3f1 (8ff31bc5bf5b) revision 9433883'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1052; Version 2009; 64bit' Language: 'en' Physical Memory: 32687 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Projects/ModifiedMeshBaker
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60461
+Successfully changed project path to: D:/Projects/ModifiedMeshBaker
+D:/Projects/ModifiedMeshBaker
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 28.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.3f1 (8ff31bc5bf5b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Projects/ModifiedMeshBaker/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   
+    VRAM:     8088 MB
+    Driver:   27.21.14.5751
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56348
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002368 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 28.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.198 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000748 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.912 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1221 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.0 MB.
+System memory in use after: 61.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1662.
+Total: 2.026400 ms (FindLiveObjects: 0.175900 ms CreateObjectMapping: 0.033800 ms MarkObjects: 1.716100 ms  DeleteObjects: 0.099600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Textures
+  artifactKey: Guid(988682db603987e468ab9f80c4ffd148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures using Guid(988682db603987e468ab9f80c4ffd148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33363b83b7feb9ba4226e6d153735b8b') in 0.094604 seconds
+  Import took 0.096640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.031775 seconds.
+  path: Assets/Materials&Textures
+  artifactKey: Guid(988682db603987e468ab9f80c4ffd148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials&Textures using Guid(988682db603987e468ab9f80c4ffd148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f198fe7e2ff72628a015e2bcc971e985') in 0.007761 seconds
+  Import took 0.009981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.643963 seconds.
+  path: Assets/Materials&Textures/photos_2015_09_18_fst_74083nckxdt.jpg
+  artifactKey: Guid(c42d0ef4d5417f142adacc87b7e92871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials&Textures/photos_2015_09_18_fst_74083nckxdt.jpg using Guid(c42d0ef4d5417f142adacc87b7e92871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e01c64c9002a07a3c5ce5033c9acc04f') in 0.107157 seconds
+  Import took 0.109573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Materials&Textures/photos_2021_3_15_fst_grunge-wall.jpg
+  artifactKey: Guid(4819f33b74a175d44bbb0ec115b17e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials&Textures/photos_2021_3_15_fst_grunge-wall.jpg using Guid(4819f33b74a175d44bbb0ec115b17e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cd1632ef17e7107e9046909f926e987') in 0.014873 seconds
+  Import took 0.016870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Materials&Textures/photos_2016_2_8_fst_814724f6e10-124f-4413-ae37-ffc158d07935.jpg
+  artifactKey: Guid(40cf00c4641083b4693cb52550c266d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials&Textures/photos_2016_2_8_fst_814724f6e10-124f-4413-ae37-ffc158d07935.jpg using Guid(40cf00c4641083b4693cb52550c266d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66a9affcc534ee589dc7c18858c09790') in 0.012659 seconds
+  Import took 0.014632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.107658 seconds.
+  path: Assets/Materials&Textures/brick.jpg
+  artifactKey: Guid(c42d0ef4d5417f142adacc87b7e92871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials&Textures/brick.jpg using Guid(c42d0ef4d5417f142adacc87b7e92871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0832ec4971a6cd0ec65f222a66032bd') in 0.013949 seconds
+  Import took 0.016291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.453812 seconds.
+  path: Assets/Materials&Textures/stine.jpg
+  artifactKey: Guid(40cf00c4641083b4693cb52550c266d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials&Textures/stine.jpg using Guid(40cf00c4641083b4693cb52550c266d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65a93ec078e9ce6e708a3f5c97404620') in 0.013224 seconds
+  Import took 0.015556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.357769 seconds.
+  path: Assets/Materials&Textures/Stone.jpg
+  artifactKey: Guid(40cf00c4641083b4693cb52550c266d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials&Textures/Stone.jpg using Guid(40cf00c4641083b4693cb52550c266d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49b383c49c74efe943b306d6bb7e2574') in 0.012714 seconds
+  Import took 0.015007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.964073 seconds.
+  path: Assets/Materials&Textures/Brick.jpg
+  artifactKey: Guid(c42d0ef4d5417f142adacc87b7e92871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials&Textures/Brick.jpg using Guid(c42d0ef4d5417f142adacc87b7e92871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2cf2ce4b105d9db226da841a23a5292') in 0.026176 seconds
+  Import took 0.028448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.629682 seconds.
+  path: Assets/Materials&Textures/Plaster.jpg
+  artifactKey: Guid(4819f33b74a175d44bbb0ec115b17e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials&Textures/Plaster.jpg using Guid(4819f33b74a175d44bbb0ec115b17e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfb4767bef0d2aed9c92514c552a300d') in 0.014614 seconds
+  Import took 0.016907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.336742 seconds.
+  path: Assets/Materials&Textures/Materials
+  artifactKey: Guid(9914c77848b5837409fa9918c22ed813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials&Textures/Materials using Guid(9914c77848b5837409fa9918c22ed813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f61408bcb57116dff5df64926bc1a7b8') in 0.007896 seconds
+  Import took 0.010171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053449 seconds.
+  path: Assets/Materials&Textures/Materials/Brick.mat
+  artifactKey: Guid(1acecb664bc880b4c896bac0ee7486ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials&Textures/Materials/Brick.mat using Guid(1acecb664bc880b4c896bac0ee7486ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '012ff9ba89c1ebfc52ada5c571fad514') in 0.078526 seconds
+  Import took 0.080830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.479449 seconds.
+  path: Assets/Materials&Textures/Materials/Plaster.mat
+  artifactKey: Guid(4fcde7244b7d7fc4a9e268dc39f50d07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials&Textures/Materials/Plaster.mat using Guid(4fcde7244b7d7fc4a9e268dc39f50d07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '733fd33010c6a127fa176a52a27b1717') in 0.012571 seconds
+  Import took 0.025904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Materials&Textures/Materials/Stone.mat
+  artifactKey: Guid(7db579cd6805e8040ab4b5c3dee08919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials&Textures/Materials/Stone.mat using Guid(7db579cd6805e8040ab4b5c3dee08919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08126bf2120e5d0e7ae751e9d9fd8039') in 0.012941 seconds
+  Import took 0.014960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2160.600856 seconds.
+  path: Assets/MeshBaker/Editor/core/MB3_MeshBakerEditorFunctions.cs
+  artifactKey: Guid(50f72bd88d28bdd4f9f37e63941bc3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Editor/core/MB3_MeshBakerEditorFunctions.cs using Guid(50f72bd88d28bdd4f9f37e63941bc3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b786ec96cc4173a4a5017cb117ba9e73') in 0.010766 seconds
+  Import took 0.013259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020168 seconds.
+  path: Assets/MeshBaker/Editor/core/MB3_MeshBakerEditorFunctions.cs
+  artifactKey: Guid(50f72bd88d28bdd4f9f37e63941bc3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Editor/core/MB3_MeshBakerEditorFunctions.cs using Guid(50f72bd88d28bdd4f9f37e63941bc3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b786ec96cc4173a4a5017cb117ba9e73') in 0.014383 seconds
+  Import took 0.016691 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000743 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.826 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1212 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.0 MB.
+System memory in use after: 64.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1706.
+Total: 1.837800 ms (FindLiveObjects: 0.172200 ms CreateObjectMapping: 0.033100 ms MarkObjects: 1.559000 ms  DeleteObjects: 0.072700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1271.783011 seconds.
+  path: Assets/MeshBaker/Editor/core/MB3_MeshBakerEditorFunctions.cs
+  artifactKey: Guid(50f72bd88d28bdd4f9f37e63941bc3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Editor/core/MB3_MeshBakerEditorFunctions.cs using Guid(50f72bd88d28bdd4f9f37e63941bc3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd012253c4c0a3bc299f6315f5751fd3') in 0.004466 seconds
+  Import took 0.006595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.735746 seconds.
+  path: Assets/Utilities/Custom_ClassExtensions.cs
+  artifactKey: Guid(9c1fa286cb89e4c48ac35b14f2ef0abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Utilities/Custom_ClassExtensions.cs using Guid(9c1fa286cb89e4c48ac35b14f2ef0abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77abd6d10ca0f74f5609736c234355bb') in 0.007437 seconds
+  Import took 0.009828 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000722 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.828 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1212 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.0 MB.
+System memory in use after: 64.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1708.
+Total: 1.855300 ms (FindLiveObjects: 0.169800 ms CreateObjectMapping: 0.033300 ms MarkObjects: 1.586700 ms  DeleteObjects: 0.064400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.575883 seconds.
+  path: Assets/Utilities/Editor/Custom_MeshBakerUtility.cs
+  artifactKey: Guid(61fcb0f41e008c64ebeb3c7fa9131b2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Utilities/Editor/Custom_MeshBakerUtility.cs using Guid(61fcb0f41e008c64ebeb3c7fa9131b2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '670905da46cb18402c9aa9b8677b50c9') in 0.013374 seconds
+  Import took 0.015817 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000714 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.840 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1212 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.0 MB.
+System memory in use after: 64.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1710.
+Total: 1.969700 ms (FindLiveObjects: 0.196200 ms CreateObjectMapping: 0.033200 ms MarkObjects: 1.663100 ms  DeleteObjects: 0.075500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000726 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.817 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1212 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.1 MB.
+System memory in use after: 64.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1712.
+Total: 1.875100 ms (FindLiveObjects: 0.205800 ms CreateObjectMapping: 0.035300 ms MarkObjects: 1.565000 ms  DeleteObjects: 0.067900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.236917 seconds.
+  path: Assets/Utilities/MT_Utilities.asmdef
+  artifactKey: Guid(68ee9f5ef842d544ba6f7c2ee8308aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Utilities/MT_Utilities.asmdef using Guid(68ee9f5ef842d544ba6f7c2ee8308aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d61e07e42f891a0325e7190050b2632') in 0.012962 seconds
+  Import took 0.015305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.446988 seconds.
+  path: Assets/Utilities/Custom_Utilities.asmdef
+  artifactKey: Guid(68ee9f5ef842d544ba6f7c2ee8308aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Utilities/Custom_Utilities.asmdef using Guid(68ee9f5ef842d544ba6f7c2ee8308aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd9206ac4bccb2225a993409603164be') in 0.007112 seconds
+  Import took 0.009408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 806.469647 seconds.
+  path: Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/birchFoliage.mat
+  artifactKey: Guid(022b4cbad5674ba4ca0f16f0e0924fd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/MultipleMaterials/SourceMaterials/birchFoliage.mat using Guid(022b4cbad5674ba4ca0f16f0e0924fd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '271290cf11bed4eb24f07eec1da0bc6b') in 0.270034 seconds
+  Import took 0.272600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/MeshBaker/Examples/Scripts/PipelineConversionScript.prefab
+  artifactKey: Guid(e91e8a1cb42b64c489f8c80c3462bc0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Scripts/PipelineConversionScript.prefab using Guid(e91e8a1cb42b64c489f8c80c3462bc0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef7395e3970c9fea800c5d76e6af9d89') in 0.037563 seconds
+  Import took 0.039917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/MeshBaker/Examples/Assets/ModelPrefabs/littleBridge_bridge_MB.asset
+  artifactKey: Guid(956a210509be0b74b9968bc421d9709f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/ModelPrefabs/littleBridge_bridge_MB.asset using Guid(956a210509be0b74b9968bc421d9709f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fd86b445e1f41806b1c6f6726bb05a2') in 0.075946 seconds
+  Import took 0.078298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/MeshBaker/scripts/AssignToMeshCustomizers/MeshAssignCustomizerPutSliceIdxInUV0_z.asset
+  artifactKey: Guid(f07837ee6127d5a48966dd83c72ee55c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/scripts/AssignToMeshCustomizers/MeshAssignCustomizerPutSliceIdxInUV0_z.asset using Guid(f07837ee6127d5a48966dd83c72ee55c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b9c35c8bcff021fe292850f9f391a66') in 0.007761 seconds
+  Import took 0.009724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/MeshBaker/Examples/PrepareObjectsForDynamicBatching/ModifiedPrefabs/Cylinder.asset
+  artifactKey: Guid(28eb06151cfae2f49b61f936c577beef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/PrepareObjectsForDynamicBatching/ModifiedPrefabs/Cylinder.asset using Guid(28eb06151cfae2f49b61f936c577beef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d8a415985d350093c8ff6d4edcea2dc') in 0.031316 seconds
+  Import took 0.033723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/MeshBaker/Examples/MultipleMaterials/ResultMaterials/TextureBakeResult-Foliage-_MainTex-atlas0.png
+  artifactKey: Guid(6783c04a985c365429dbce66c0c4db56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/MultipleMaterials/ResultMaterials/TextureBakeResult-Foliage-_MainTex-atlas0.png using Guid(6783c04a985c365429dbce66c0c4db56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'debf26c3fb04a4a064d84fadef5a6235') in 0.080480 seconds
+  Import took 0.082805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/MeshBaker/Examples/Assets/ModelPrefabs/Submeshes4Cylinder.prefab
+  artifactKey: Guid(35352785bad389e4db9ef46d7dab3520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/ModelPrefabs/Submeshes4Cylinder.prefab using Guid(35352785bad389e4db9ef46d7dab3520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1feff3b63b32e5c04bb8d33974f706eb') in 0.039660 seconds
+  Import took 0.041625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/MeshBaker/Examples/Assets/ModelPrefabs/lightPost_lightPost_MB.asset
+  artifactKey: Guid(35e186bf4781f3143aa8870665621ad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/ModelPrefabs/lightPost_lightPost_MB.asset using Guid(35e186bf4781f3143aa8870665621ad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e11fec939f10debf36812f2c206bc7a9') in 0.065429 seconds
+  Import took 0.067440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/MeshBaker/Examples/Assets/ModelPrefabs/launchPad.fbx
+  artifactKey: Guid(7a1ded6aaa9b60d4bbffcdec6af7db56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/ModelPrefabs/launchPad.fbx using Guid(7a1ded6aaa9b60d4bbffcdec6af7db56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba782373934fb1f3282345edb0cf7c88') in 0.351770 seconds
+  Import took 0.354268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/MeshBaker/Examples/MultipleMaterials/ResultMaterials/TextureBakeResult-Foliage.mat
+  artifactKey: Guid(cb8eb335d3dcdcd4f8724623c8f80985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/MultipleMaterials/ResultMaterials/TextureBakeResult-Foliage.mat using Guid(cb8eb335d3dcdcd4f8724623c8f80985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '495bb401daaf9ae31b9d4c7ed8d4846d') in 0.044335 seconds
+  Import took 0.046814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/MeshBaker/Examples/SceneBasicTextureArrayAssets/MeshAssignCustomizerPutSliceIdxInUV0_z.asset
+  artifactKey: Guid(9f8f39f05f64e9544950793727f59f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/SceneBasicTextureArrayAssets/MeshAssignCustomizerPutSliceIdxInUV0_z.asset using Guid(9f8f39f05f64e9544950793727f59f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a4b6ebf870a8d828c12fbb0a5f32234') in 0.003067 seconds
+  Import took 0.005566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/MeshBaker/Examples/Assets/ModelPrefabs/littleBridge.fbx
+  artifactKey: Guid(792fe4c4cc5d15540917e47a6d69c1ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/ModelPrefabs/littleBridge.fbx using Guid(792fe4c4cc5d15540917e47a6d69c1ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '942c1803c8b864110c9617055434aef8') in 0.067794 seconds
+  Import took 0.070451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/MeshBaker/Examples/PrepareObjectsForDynamicBatching/ModifiedPrefabs/Cylinder (Modified).prefab
+  artifactKey: Guid(d98c50d497aec9e4ab73c3c0e016cd75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/PrepareObjectsForDynamicBatching/ModifiedPrefabs/Cylinder (Modified).prefab using Guid(d98c50d497aec9e4ab73c3c0e016cd75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8101ad173e57d043051dd19cb4619fa8') in 0.008962 seconds
+  Import took 0.011198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/MeshBaker/Examples/PrepareObjectsForDynamicBatching/OriginalPrefabs/Cylinder.prefab
+  artifactKey: Guid(cd30da99be93b3741be16f4b8b294636) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/PrepareObjectsForDynamicBatching/OriginalPrefabs/Cylinder.prefab using Guid(cd30da99be93b3741be16f4b8b294636) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e674bdfd0d9d186240600fc91d274bbf') in 0.014480 seconds
+  Import took 0.016602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/MeshBaker/Examples/Assets/Textures/lightsIllumination.tif
+  artifactKey: Guid(ebaf73776a8786a469fbfcd2bba0e271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/Textures/lightsIllumination.tif using Guid(ebaf73776a8786a469fbfcd2bba0e271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fbefb3b27dd667ca7729daee016abb1') in 0.044319 seconds
+  Import took 0.046459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/MeshBaker/Examples/MultipleMaterials/house.fbx
+  artifactKey: Guid(fe5d527a474d1d3488fb72d2da947de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/MultipleMaterials/house.fbx using Guid(fe5d527a474d1d3488fb72d2da947de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e78fd2583d24ee980c08de41438039f') in 0.123248 seconds
+  Import took 0.125823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/MeshBaker/Examples/Assets/Textures/lights.tif
+  artifactKey: Guid(d0f79a035b34fd245aa6d68633efe499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/Textures/lights.tif using Guid(d0f79a035b34fd245aa6d68633efe499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd91fc985d07e2cbeab1f6a1652a68049') in 0.053259 seconds
+  Import took 0.055622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/MeshBaker/Examples/Assets/ModelPrefabs/meshWithSubmeshes4Cylinder_MeshBaker0-mesh_MB.asset
+  artifactKey: Guid(a2781715cda825a4e8b2deb34622f8cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/ModelPrefabs/meshWithSubmeshes4Cylinder_MeshBaker0-mesh_MB.asset using Guid(a2781715cda825a4e8b2deb34622f8cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f0d4ec66f64fef8611760649bde1a1e') in 0.031590 seconds
+  Import took 0.034284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/MeshBaker/Examples/Assets/Materials/lights.mat
+  artifactKey: Guid(c8efec5c7e5daaa488f64a0c512b49ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/Materials/lights.mat using Guid(c8efec5c7e5daaa488f64a0c512b49ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19f03c20cea5b0f081d018e88b590550') in 0.014941 seconds
+  Import took 0.017925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000483 seconds.
+  path: Assets/MeshBaker/Examples/Assets/ModelPrefabs/meshWithSubmeshes4Cylinder_MeshBaker0-mesh_MB0.asset
+  artifactKey: Guid(1c79582b8573b194792a2d87c6c225ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/ModelPrefabs/meshWithSubmeshes4Cylinder_MeshBaker0-mesh_MB0.asset using Guid(1c79582b8573b194792a2d87c6c225ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c279e45b2574496d45f74ba8ab93d981') in 0.025565 seconds
+  Import took 0.028188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/MeshBaker/Examples/Assets/ModelPrefabs/lightPost.fbx
+  artifactKey: Guid(1c13fd1d8f4756d41b1665ee7a61559b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/ModelPrefabs/lightPost.fbx using Guid(1c13fd1d8f4756d41b1665ee7a61559b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd0a6930d2c87697c799f652675e39db') in 0.031116 seconds
+  Import took 0.033403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/MeshBaker/Examples/Assets/ModelPrefabs/littleBridge_bridgeLights_MB.asset
+  artifactKey: Guid(1bc20c8de005f4b45b49b9438e1f251d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/ModelPrefabs/littleBridge_bridgeLights_MB.asset using Guid(1bc20c8de005f4b45b49b9438e1f251d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e92d2150f621befa260038a39d6c679c') in 0.033781 seconds
+  Import took 0.035913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/MeshBaker/Examples/Assets/Textures/mainLevelIllum.tif
+  artifactKey: Guid(8c5867f1b597f8b4db59d605711c5581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/Textures/mainLevelIllum.tif using Guid(8c5867f1b597f8b4db59d605711c5581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '164761902851ee48cc3d570df725b635') in 0.046319 seconds
+  Import took 0.048427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/MeshBaker/Examples/MultipleMaterials/ResultMaterials/TextureBakeResult-Foliage-_MainTex-atlas-0.png
+  artifactKey: Guid(556b40c35e8f94f438fa70a9a0966f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/MultipleMaterials/ResultMaterials/TextureBakeResult-Foliage-_MainTex-atlas-0.png using Guid(556b40c35e8f94f438fa70a9a0966f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2772a3c015619200ef70f3efa7487a30') in 0.032486 seconds
+  Import took 0.034620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/MeshBaker/Examples/Assets/ModelPrefabs/meshWithSubmeshes4Cylinder.asset
+  artifactKey: Guid(766d3d0ca3ee5e249afd75c3f72408fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/Assets/ModelPrefabs/meshWithSubmeshes4Cylinder.asset using Guid(766d3d0ca3ee5e249afd75c3f72408fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35eea2392b3683b70e506ebf30076190') in 0.029382 seconds
+  Import took 0.031668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 144.200019 seconds.
+  path: Assets/MeshBaker/Examples/CharacterCustomization/Output/CustomizedCharacter.prefab
+  artifactKey: Guid(a5551ca302a5cf14ab188d52e10c6f0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Examples/CharacterCustomization/Output/CustomizedCharacter.prefab using Guid(a5551ca302a5cf14ab188d52e10c6f0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3f021b0f97f3d58db87b78cf94a962d') in 0.032563 seconds
+  Import took 0.035025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.463421 seconds.
+  path: Assets/Utilities/Editor/Custom_MeshBakerUtility.cs
+  artifactKey: Guid(61fcb0f41e008c64ebeb3c7fa9131b2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Utilities/Editor/Custom_MeshBakerUtility.cs using Guid(61fcb0f41e008c64ebeb3c7fa9131b2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '029ff7f735b9894218d74cbd7a9318f6') in 0.007024 seconds
+  Import took 0.009360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001855 seconds.
+  path: Assets/Utilities/Editor/Custom_MeshBakerUtility.cs
+  artifactKey: Guid(61fcb0f41e008c64ebeb3c7fa9131b2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Utilities/Editor/Custom_MeshBakerUtility.cs using Guid(61fcb0f41e008c64ebeb3c7fa9131b2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '029ff7f735b9894218d74cbd7a9318f6') in 0.002090 seconds
+  Import took 0.003940 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000802 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.823 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1212 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.1 MB.
+System memory in use after: 66.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1728.
+Total: 1.882900 ms (FindLiveObjects: 0.199400 ms CreateObjectMapping: 0.036000 ms MarkObjects: 1.568700 ms  DeleteObjects: 0.077600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 331.732397 seconds.
+  path: Assets/MeshBaker/Editor/MB3_TextureBakerEditor.cs
+  artifactKey: Guid(8d4a807c8e47aae478e9b0fa3f797bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Editor/MB3_TextureBakerEditor.cs using Guid(8d4a807c8e47aae478e9b0fa3f797bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4771930c5447d4bbd6b603f9fdcfeb68') in 0.009494 seconds
+  Import took 0.011831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002124 seconds.
+  path: Assets/MeshBaker/Editor/MB3_TextureBakerEditor.cs
+  artifactKey: Guid(8d4a807c8e47aae478e9b0fa3f797bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Editor/MB3_TextureBakerEditor.cs using Guid(8d4a807c8e47aae478e9b0fa3f797bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4771930c5447d4bbd6b603f9fdcfeb68') in 0.002198 seconds
+  Import took 0.004340 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000720 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.816 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1212 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.1 MB.
+System memory in use after: 66.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1730.
+Total: 1.894700 ms (FindLiveObjects: 0.203200 ms CreateObjectMapping: 0.033100 ms MarkObjects: 1.588400 ms  DeleteObjects: 0.068900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.026676 seconds.
+  path: Assets/Utilities/Custom_Utilities.asmdef
+  artifactKey: Guid(68ee9f5ef842d544ba6f7c2ee8308aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Utilities/Custom_Utilities.asmdef using Guid(68ee9f5ef842d544ba6f7c2ee8308aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '046ab728affe7026f29ca5112a813ff9') in 0.009488 seconds
+  Import took 0.011898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025360 seconds.
+  path: Assets/Utilities/Custom_Utilities.asmdef
+  artifactKey: Guid(68ee9f5ef842d544ba6f7c2ee8308aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Utilities/Custom_Utilities.asmdef using Guid(68ee9f5ef842d544ba6f7c2ee8308aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '046ab728affe7026f29ca5112a813ff9') in 0.002089 seconds
+  Import took 0.004410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.336973 seconds.
+  path: Assets/Utilities/Custom_ClassExtensions.cs
+  artifactKey: Guid(9c1fa286cb89e4c48ac35b14f2ef0abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Utilities/Custom_ClassExtensions.cs using Guid(9c1fa286cb89e4c48ac35b14f2ef0abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d1c98db97f29e70a74a0e61175a5815') in 0.006736 seconds
+  Import took 0.009242 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000867 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.814 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1212 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.1 MB.
+System memory in use after: 66.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1732.
+Total: 1.863300 ms (FindLiveObjects: 0.190300 ms CreateObjectMapping: 0.033000 ms MarkObjects: 1.569700 ms  DeleteObjects: 0.069300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.998989 seconds.
+  path: Assets/MeshBaker/Editor/MB3_SearchFilters.cs
+  artifactKey: Guid(bef3870f152ae5c4d8328764ccdcf9d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Editor/MB3_SearchFilters.cs using Guid(bef3870f152ae5c4d8328764ccdcf9d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbde0f5f08ae54cdc821c2924c6ba72c') in 0.009878 seconds
+  Import took 0.012230 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000704 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.812 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1212 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.1 MB.
+System memory in use after: 66.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1734.
+Total: 1.890600 ms (FindLiveObjects: 0.192400 ms CreateObjectMapping: 0.038900 ms MarkObjects: 1.588900 ms  DeleteObjects: 0.069500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 161.055489 seconds.
+  path: Assets/MeshBaker/Editor/MeshBakerEditor.asmdef
+  artifactKey: Guid(9624fe4634a340a4e859acf7a8a19076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Editor/MeshBakerEditor.asmdef using Guid(9624fe4634a340a4e859acf7a8a19076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b33080d4512fc470866e503d8a779ce0') in 0.015487 seconds
+  Import took 0.017841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.908328 seconds.
+  path: Assets/MeshBaker/Editor/MeshBakerEditor.asmdef
+  artifactKey: Guid(9624fe4634a340a4e859acf7a8a19076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Editor/MeshBakerEditor.asmdef using Guid(9624fe4634a340a4e859acf7a8a19076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '129fb414015e5a910bc8c69d8ac0b99e') in 0.002123 seconds
+  Import took 0.004469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016238 seconds.
+  path: Assets/MeshBaker/Editor/MeshBakerEditor.asmdef
+  artifactKey: Guid(9624fe4634a340a4e859acf7a8a19076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Editor/MeshBakerEditor.asmdef using Guid(9624fe4634a340a4e859acf7a8a19076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '129fb414015e5a910bc8c69d8ac0b99e') in 0.001992 seconds
+  Import took 0.004379 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000710 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.822 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1212 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.2 MB.
+System memory in use after: 66.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1736.
+Total: 2.023100 ms (FindLiveObjects: 0.199900 ms CreateObjectMapping: 0.032900 ms MarkObjects: 1.715300 ms  DeleteObjects: 0.073000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000800 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.821 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1212 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.2 MB.
+System memory in use after: 66.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1738.
+Total: 1.853800 ms (FindLiveObjects: 0.172800 ms CreateObjectMapping: 0.033000 ms MarkObjects: 1.576600 ms  DeleteObjects: 0.070400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 325.187825 seconds.
+  path: Assets/MeshBaker/Editor/MB_TextureBakerEditorConfigureTextureArrays.cs
+  artifactKey: Guid(40897f51747aa1441828c8506393aa13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Editor/MB_TextureBakerEditorConfigureTextureArrays.cs using Guid(40897f51747aa1441828c8506393aa13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2adf95f428a1f35a04400d4f4ccc7a4c') in 0.009937 seconds
+  Import took 0.012417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028716 seconds.
+  path: Assets/MeshBaker/Editor/MB_TextureBakerEditorConfigureTextureArrays.cs
+  artifactKey: Guid(40897f51747aa1441828c8506393aa13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Editor/MB_TextureBakerEditorConfigureTextureArrays.cs using Guid(40897f51747aa1441828c8506393aa13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2adf95f428a1f35a04400d4f4ccc7a4c') in 0.002071 seconds
+  Import took 0.004299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.839105 seconds.
+  path: Assets/MeshBaker/Editor/MB3_MeshBakerEditor.cs
+  artifactKey: Guid(78b9bfa186de09140af76ffd83bb4b04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Editor/MB3_MeshBakerEditor.cs using Guid(78b9bfa186de09140af76ffd83bb4b04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1020c0785280c8acad12d9689cf37bb') in 0.006989 seconds
+  Import took 0.009306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.534465 seconds.
+  path: Assets/MeshBaker/Editor/core/MB3_MeshBakerEditorFunctions.cs
+  artifactKey: Guid(50f72bd88d28bdd4f9f37e63941bc3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Editor/core/MB3_MeshBakerEditorFunctions.cs using Guid(50f72bd88d28bdd4f9f37e63941bc3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b150e35a88648d7a9e4176d488b3227a') in 0.002018 seconds
+  Import took 0.004282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000884 seconds.
+  path: Assets/MeshBaker/Editor/core/MB3_MeshBakerEditorFunctions.cs
+  artifactKey: Guid(50f72bd88d28bdd4f9f37e63941bc3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Editor/core/MB3_MeshBakerEditorFunctions.cs using Guid(50f72bd88d28bdd4f9f37e63941bc3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b150e35a88648d7a9e4176d488b3227a') in 0.002040 seconds
+  Import took 0.003891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.877787 seconds.
+  path: Assets/MeshBaker/Editor/MB3_MeshBakerEditorInternal.cs
+  artifactKey: Guid(1717ab26a7a030744b8f38653556e4eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Editor/MB3_MeshBakerEditorInternal.cs using Guid(1717ab26a7a030744b8f38653556e4eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca0223ac6d4db737255b984c0a272e59') in 0.006879 seconds
+  Import took 0.009131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001023 seconds.
+  path: Assets/MeshBaker/Editor/MB3_MeshBakerEditorInternal.cs
+  artifactKey: Guid(1717ab26a7a030744b8f38653556e4eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Editor/MB3_MeshBakerEditorInternal.cs using Guid(1717ab26a7a030744b8f38653556e4eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca0223ac6d4db737255b984c0a272e59') in 0.029588 seconds
+  Import took 0.031519 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000861 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.858 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1212 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.2 MB.
+System memory in use after: 66.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1740.
+Total: 2.000700 ms (FindLiveObjects: 0.215000 ms CreateObjectMapping: 0.033000 ms MarkObjects: 1.674800 ms  DeleteObjects: 0.076700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 131.463197 seconds.
+  path: Assets/MeshBaker/Editor/MB3_MeshBakerEditor.cs
+  artifactKey: Guid(78b9bfa186de09140af76ffd83bb4b04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MeshBaker/Editor/MB3_MeshBakerEditor.cs using Guid(78b9bfa186de09140af76ffd83bb4b04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92575ae2e7a97db970adf74cc68cb788') in 0.005321 seconds
+  Import took 0.007655 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000811 seconds.

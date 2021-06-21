@@ -1,0 +1,19 @@
+{
+    "name": "MeshBakerEditor",
+    "rootNamespace": "",
+    "references": [
+        "MeshBakerCore",
+        "Custom_Utilities"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
